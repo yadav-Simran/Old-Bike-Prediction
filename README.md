@@ -3,13 +3,14 @@ Prediction of resale value of bikes from a trained model.
 ## Screenshots 
 
 #### Landing Page
-![Home 1](https://github.com/SShadabHussain/Bike-Resale-Prediction/assets/93070562/ee82c682-5b29-45a9-bd00-05afe035fdbf)
-<br>
+![WhatsApp Image 2024-01-24 at 22 36 18](https://github.com/yadav-Simran/Old-Bike-Prediction/assets/123407453/9f3b75e7-30b4-4159-a5ce-7aa73d838f34)
 
-![Home 2](https://github.com/SShadabHussain/Bike-Resale-Prediction/assets/93070562/701c4789-8ad1-407a-8a9d-59a3f27c8567)
+![WhatsApp Image 2024-01-24 at 22 36 17 (1)](https://github.com/yadav-Simran/Old-Bike-Prediction/assets/123407453/e909e601-bd32-4314-8e49-062fb7c2f96f)
+
+
 
 #### Solution Page
-![Solution](https://github.com/SShadabHussain/Bike-Resale-Prediction/assets/93070562/7576f319-4437-4ec7-8a6a-e18b1b82e759)
+![WhatsApp Image 2024-01-24 at 22 36 17](https://github.com/yadav-Simran/Old-Bike-Prediction/assets/123407453/61a2cbce-623d-43f5-958e-c7f0fdee81dd)
 
 #### About Page
 ![Contact](https://github.com/SShadabHussain/Bike-Resale-Prediction/assets/93070562/84cbfeb3-c34b-4127-a2e0-03e0148564f3)
