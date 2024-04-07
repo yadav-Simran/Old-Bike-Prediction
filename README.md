@@ -1,6 +1,6 @@
 # Bike-Resale-Price-Prediction-App
 Prediction of resale value of bikes from a trained model.
-## Screenshots 
+## Screenshots..!
 
 ![WhatsApp Image 2024-01-24 at 22 36 18](https://github.com/yadav-Simran/Old-Bike-Prediction/assets/123407453/9f3b75e7-30b4-4159-a5ce-7aa73d838f34)
 
