@@ -70,8 +70,7 @@ The machine learning model used by the app is a gradient boosting model. This mo
 
 ### Deployment
 
-The app is deployed to Heroku. You can find the deployment instructions in the `Procfile` file.
-
+The app is deployed to Azure.
 ### Conclusion
 
 This app is a simple example of how machine learning can be used to solve real-world problems. The app is easy to use and can provide valuable information to users who are looking to buy or sell a used bike.
